@@ -4,7 +4,7 @@ With this extension you can create custom links in VSCode that can link to files
 
 ## Quick Start
 
-1. Install the extension [here](https://marketplace.visualstudio.com/items?itemName=web-dev-sam.vscode-links).
+1. Install the extension [here](https://marketplace.visualstudio.com/items?itemName=webry.vsc-links).
 2. Run the command `VSC Links: Create Config File` to open the links file. _(Ctrl + Shift + P)_
 3. Run `npm add -D vscl` to install the types for the config.
 4. Learn from examples [here](/examples)
