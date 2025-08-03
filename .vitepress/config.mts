@@ -22,7 +22,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/webry-com/vscode-links",
+        link: "https://github.com/webry-com/vsc-links",
       },
     ],
   },
