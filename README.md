@@ -9,6 +9,9 @@ _The docs for VSC Links, a VSCode extension that lets you create links in source
 
 &nbsp;
 
+## Why does this exist?
+VSC Links needed docs.
+
 ## Where to find it
 
 Published at [vsc-links.webry.com](https://vsc-links.webry.com/).
