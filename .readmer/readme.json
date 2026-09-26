@@ -1,0 +1,24 @@
+{
+  "title": "VSCode Links Docs",
+  "tagline": "The docs for VSC Links, a VSCode extension that lets you create links in source code wherever and to whatever you want. 📖",
+  "sections": [
+    {
+      "title": "Where to find it",
+      "body": [
+        "Published at [vsc-links.webry.com](https://vsc-links.webry.com/)."
+      ]
+    },
+    {
+      "title": "How to run it",
+      "body": [
+        "A [VitePress](https://vitepress.dev) site."
+      ],
+      "numbered": [
+        "`npm install`",
+        "`npm run dev`",
+        "`npm run build`",
+        "`npm run preview`"
+      ]
+    }
+  ]
+}
